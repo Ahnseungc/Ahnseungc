@@ -6,3 +6,5 @@
 <img src="https://img.shields.io/badge/gitHub-181717?style=for-the-badge&logo=gitHub&logoColor=white">
 <img src="https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=typeScript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+
