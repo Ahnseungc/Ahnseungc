@@ -1,9 +1,10 @@
 
 
 <!-- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3><br/><br/><br/> -->
-
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnseungc)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=omnipo)](https://solved.ac/백준아이디/)
+ </div>
 
 <br/><br/>
   
