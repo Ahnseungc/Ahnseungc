@@ -17,6 +17,7 @@
 
 <h3>Tools<h3/><br/>
   <p align="center">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"><img src="https://img.shields.io/badge/gitHub-181717?style=for-the-badge&logo=gitHub&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+    <img src="https://img.shields.io/badge/gitHub-181717?style=for-the-badge&logo=gitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 </p>
