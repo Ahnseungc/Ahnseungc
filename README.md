@@ -7,7 +7,7 @@
 
 
 <h1 align="center">📚 Tech Stack 📚<h1/><br/><br/>
-  <h3 align="center">Language & Framwork<h3/><br/><br/>
+  <h3 align="center">Language & Framwork<h3/>
   <p align="center"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
@@ -20,13 +20,13 @@
     </p>
 
 
-  <h3 align="center">Tools<h3/><br/><br/>
+  <h3 align="center">Tools<h3/>
   <p align="center">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
     <img src="https://img.shields.io/badge/gitHub-181717?style=for-the-badge&logo=gitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 </p>
-    
+    <br/><br/>
   <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://velog.io/@omnipo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
