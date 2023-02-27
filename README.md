@@ -14,7 +14,7 @@
     </p>
 
 
-  <h3 align="center">Tools<h3/><br/>
+  <h3 align="center">Tools<h3/>
   <p align="center">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
     <img src="https://img.shields.io/badge/gitHub-181717?style=for-the-badge&logo=gitHub&logoColor=white">
