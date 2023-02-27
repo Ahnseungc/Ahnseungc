@@ -7,8 +7,8 @@
 <br/><br/>
   
 <h1 align="center">📚 Tech Stack 📚<h1/>
-  안녕하세요
-  <br/><br/>
+
+
   <h3 align="center">Language & Framwork<h3/>
   <p align="center"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
