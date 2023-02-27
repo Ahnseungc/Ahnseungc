@@ -3,11 +3,11 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+  </div><br/><br/>
 
 
-<h1 align="center">📚 Tech Stack 📚<h1/><br/>
-  <h3 align="center">Language & Framwork<h3/>
+<h1 align="center">📚 Tech Stack 📚<h1/><br/><br/>
+  <h3 align="center">Language & Framwork<h3/><br/><br/>
   <p align="center"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
@@ -20,7 +20,7 @@
     </p>
 
 
-  <h3 align="center">Tools<h3/>
+  <h3 align="center">Tools<h3/><br/><br/>
   <p align="center">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
     <img src="https://img.shields.io/badge/gitHub-181717?style=for-the-badge&logo=gitHub&logoColor=white">
