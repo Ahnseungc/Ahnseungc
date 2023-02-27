@@ -6,10 +6,6 @@
   </div>
 
 
-
-
-
-
 <h1 align="center">📚 Tech Stack 📚<h1/><br/>
   <h3 align="center">Language & Framwork<h3/>
   <p align="center"> 
