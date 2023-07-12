@@ -7,8 +7,17 @@
 
 
 <br/><br/>
+
+
+<br/><br/>
+  
+<h1 align="center">❅ Awards ❅<h1/>
+KBSC 공모전   국민은행      장려상
+캡스톤 디자인   한림대     입선
+아이디어해커톤  한림대     장려상
   
 <h1 align="center">📚 Tech Stack 📚<h1/>
+
 
 
   <h3 align="center">Language & Framwork<h3/>
