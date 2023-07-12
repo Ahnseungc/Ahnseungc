@@ -1,8 +1,10 @@
-<h1>Ahn seung chan</h1>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ahn seung chan&fontSize=90" />
 <!-- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3><br/><br/><br/> -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnseungc)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <br/><br/>
   
