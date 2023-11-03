@@ -15,6 +15,7 @@
 <h6>KBSC 공모전 &nbsp&nbsp&nbsp&nbsp 국민은행 &nbsp&nbsp&nbsp&nbsp     장려상</h6> <br/>
 <h6>캡스톤 디자인 &nbsp&nbsp&nbsp&nbsp  한림대  &nbsp&nbsp&nbsp&nbsp   입선</h6> <br/>
 <h6>아이디어해커톤 &nbsp&nbsp&nbsp&nbsp  한림대  &nbsp&nbsp&nbsp&nbsp   장려상</h6> <br/>
+<h6>오픈소스SW웹해커톤 &nbsp&nbsp&nbsp&nbsp  한림대  &nbsp&nbsp&nbsp&nbsp   금상</h6> <br/>
   
 <h1 align="center">📚 Tech Stack 📚<h1/>
 
