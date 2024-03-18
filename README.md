@@ -1,24 +1,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AhnSeungChan&fontSize=90" />
-<!-- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3><br/><br/><br/> -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnseungc)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <br/><br/>
-
-
 <br/><br/>
   
 <h1 align="center">❅ Awards ❅<h1/>
-<h6>KBSC 공모전 &nbsp&nbsp&nbsp&nbsp 국민은행 &nbsp&nbsp&nbsp&nbsp     장려상</h6> <br/>
-<h6>캡스톤 디자인 &nbsp&nbsp&nbsp&nbsp  한림대  &nbsp&nbsp&nbsp&nbsp   입선</h6> <br/>
-<h6>아이디어해커톤 &nbsp&nbsp&nbsp&nbsp  한림대  &nbsp&nbsp&nbsp&nbsp   장려상</h6> <br/>
-<h6>오픈소스SW웹해커톤 &nbsp&nbsp&nbsp&nbsp  한림대  &nbsp&nbsp&nbsp&nbsp   금상</h6> <br/>
+<h6>KBSC 공모전 &nbsp&nbsp&nbsp&nbsp 국민은행 &nbsp&nbsp&nbsp&nbsp     장려상</h6> 
+<h6>캡스톤 디자인 &nbsp&nbsp&nbsp&nbsp  한림대  &nbsp&nbsp&nbsp&nbsp   입선</h6> 
+<h6>아이디어해커톤 &nbsp&nbsp&nbsp&nbsp  한림대  &nbsp&nbsp&nbsp&nbsp   장려상</h6> 
+<h6>오픈소스SW웹해커톤 &nbsp&nbsp&nbsp&nbsp  한림대  &nbsp&nbsp&nbsp&nbsp   금상</h6>
   
 <h1 align="center">📚 Tech Stack 📚<h1/>
-
 
 
   <h3 align="center">Language & Framwork<h3/>
