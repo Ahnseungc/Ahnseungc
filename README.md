@@ -26,7 +26,7 @@
   
   <br/>
   <br/>
-<img src="https://img.shields.io/badge/NEXTJS-3776AB?style=for-the-badge&logo=NEXT&logoColor=white">
+<img src="https://img.shields.io/badge/NEXTJS-3776AB?style=for-the-badge&logo=NEXTJS&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
     </p><br/><br/>
   <h3 align="center">🌈 Follow Me 🌈</h3>
