@@ -16,7 +16,6 @@
   <br/>
   <br/>
   
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
 <img src="https://img.shields.io/badge/SASS-1572B6?style=for-the-badge&logo=SASS&logoColor=white">
 <img src="https://img.shields.io/badge/CSSModule-1572B6?style=for-the-badge&logo=CSSModule&logoColor=white">
 <img src="https://img.shields.io/badge/StyledComponents-1572B6?style=for-the-badge&logo=styledComponents&logoColor=white">
