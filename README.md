@@ -1,13 +1,4 @@
-<h1 align="center">❅ Awards ❅<h1/>
-  
-<h6>KBSC 공모전 &nbsp&nbsp&nbsp&nbsp 국민은행 &nbsp&nbsp&nbsp&nbsp     장려상 </h6> 
-<h6>캡스톤 디자인 &nbsp&nbsp&nbsp&nbsp  한림대  &nbsp&nbsp&nbsp&nbsp   입상 </h6> 
-<h6>아이디어해커톤 &nbsp&nbsp&nbsp&nbsp  한림대  &nbsp&nbsp&nbsp&nbsp   장려상 </h6> 
-<h6>오픈소스SW웹해커톤 &nbsp&nbsp&nbsp&nbsp  한림대  &nbsp&nbsp&nbsp&nbsp   금상 </h6>
-  
-
-
-  <p align="center"> 
+<p align="center"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
