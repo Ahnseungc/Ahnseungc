@@ -1,8 +1,8 @@
 <h3 align="center">Stack</h3>
 
 <p align="center"> 
-<img src="https://img.shields.io/badge/javascript-FF6F00?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -14,6 +14,7 @@
   <br/>
 <img src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
     </p><br/><br/>
   <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
