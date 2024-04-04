@@ -1,5 +1,13 @@
-<h3 align="center">Stack</h3>
+## Github Stats  
 
+
+<span align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ahnseungc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<span align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnseungc&hide_border=true&layout=compact" align="center" /></div>
+ 
+
+
+
+## Stack
 <p align="center"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -24,6 +32,6 @@
 </p>
 <br/>    
 <br/>
-<hr/>    
+
 
 
