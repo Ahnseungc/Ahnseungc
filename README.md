@@ -1,10 +1,10 @@
 ## Github Status
 
 
-<div display="flex" width="100%" justifyContent="center">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ahnseungc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" align="center" height="210px"/></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnseungc&hide_border=true&layout=compact&theme=dark" align="center" height="380px" /></div>
-</div>
+
+<span><img src="https://github-readme-stats.vercel.app/api?username=Ahnseungc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" width="50%"/></span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnseungc&hide_border=true&layout=compact&theme=dark" width="50%" /></span>
+
 
 
 
