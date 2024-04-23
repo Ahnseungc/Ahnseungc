@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white">
 </span>
 
+
  ####  Framework
  <span align="center">
 <img src="https://img.shields.io/badge/NEXTJS-000000?style=flat&logo=Next.js&logoColor=white">
