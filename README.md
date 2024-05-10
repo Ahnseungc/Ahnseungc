@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
 </span>
 
-####  cssLibrary
+####  CssLibrary
 <span align="center"> 
 <img src="https://img.shields.io/badge/SASS-1572B6?style=flat&logo=SASS&logoColor=white">
 <img src="https://img.shields.io/badge/CSSModule-1572B6?style=flat&logo=CSSModule&logoColor=white">
