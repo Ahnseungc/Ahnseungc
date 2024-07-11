@@ -57,6 +57,7 @@
 #### Test
 <span align="center">
 <img src="https://img.shields.io/badge/jest-C21325?style=flat&logo=jest&logoColor=white">
+ <img src="https://img.shields.io/badge/jasmine-C21325?style=flat&logo=jasmine&logoColor=white">
 </span>
 
 
