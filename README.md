@@ -38,14 +38,18 @@
 </span>
 
 
- ####  Framework
+ ####  FrontFramework
  <span align="center">
 <img src="https://img.shields.io/badge/NEXTJS-000000?style=flat&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat&logo=Vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white">
  </span>
+
+ ####  ServerFramework
+ <span align="center">
+ <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white">
+</span>
 
  #### DB
 <span align="center">
