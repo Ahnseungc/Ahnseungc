@@ -24,10 +24,15 @@
 <img src="https://img.shields.io/badge/Tailwindcss-1572B6?style=flat&logo=Tailwindcss&logoColor=white">
 </span>
 
-####  StatusLibrary
+####  ClientStatusLibrary
 <span align="center"> 
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white">
+</span>
+
+####  ServerStatusLibrary
+
+<span align="center"> 
 <img src="https://img.shields.io/badge/swr-000000?style=flat&logo=swr&logoColor=white">
 <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white">
 </span>
