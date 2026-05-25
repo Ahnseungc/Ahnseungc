@@ -1,29 +1,10 @@
-<!-- 상단 배너: capsule-render (메인) + 커스텀 SVG (악센트) -->
-<!-- 푸시 후 아래 accent URL을 raw.githubusercontent.com 경로로 바꿔도 됩니다 -->
+<!-- 배너: 마크다운 이미지 + 절대 URL (프로필 README는 상대 경로/HTML img가 깨질 수 있음) -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:070b12,45:0d1520,100:00e8b8&height=240&section=header&text=%EC%95%88%EC%8A%B9%EC%B0%AC&fontSize=58&fontColor=00e8b8&animation=twinkling&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20WebView%20%C2%B7%20Performance&descSize=17&descAlignY=58&descAlign=50&descColor=e8eef4"
-    alt="안승찬 — Frontend Developer"
-    width="100%"
-  />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:070b12,100:00e8b8&height=220&section=header&text=Seungchan%20Ahn&fontSize=52&fontColor=00e8b8&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20WebView%20%7C%20Performance&descSize=16&descAlignY=58&descAlign=50&descColor=e8eef4)
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=00e8b8:20,00b894:15&height=52&section=footer&text=React%20%C2%B7%20Next.js%20%C2%B7%20React%20Native%20%C2%B7%20Flutter&fontSize=14&fontColor=070b12"
-    alt="Tech keywords"
-    width="100%"
-  />
-</p>
+![tech-strip](https://capsule-render.vercel.app/api?type=soft&color=00e8b8,00b894&height=48&section=footer&text=React%20%7C%20Next.js%20%7C%20React%20Native%20%7C%20Flutter&fontSize=13&fontColor=070b12)
 
-<p align="center">
-  <img
-    src="./assets/banner-accent.svg"
-    alt="dot to line accent banner"
-    width="100%"
-  />
-</p>
+![accent](https://raw.githubusercontent.com/Ahnseungc/Ahnseungc/main/assets/banner-accent.svg)
 
 <div align="center">
 
@@ -136,12 +117,8 @@ React · Next.js · React Native · Flutter 기반으로
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahnseungc&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnseungc&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahnseungc&show_icons=true&theme=dark&hide_border=true&bg_color=070b12&title_color=00e8b8&text_color=e8eef4&icon_color=00e8b8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnseungc&layout=compact&theme=dark&hide_border=true&bg_color=070b12&title_color=00e8b8&text_color=e8eef4)
 
 ---
 
