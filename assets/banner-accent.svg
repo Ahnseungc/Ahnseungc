@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" role="img" aria-label="dot to line accent">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -20,7 +21,6 @@
     </filter>
   </defs>
   <rect width="1200" height="140" fill="url(#bg)"/>
-  <!-- grid dots -->
   <g fill="#00e8b8" opacity="0.12">
     <circle cx="80" cy="70" r="2"/><circle cx="160" cy="70" r="2"/><circle cx="240" cy="70" r="2"/>
     <circle cx="320" cy="70" r="2"/><circle cx="400" cy="70" r="2"/><circle cx="480" cy="70" r="2"/>
@@ -28,9 +28,7 @@
     <circle cx="800" cy="70" r="2"/><circle cx="880" cy="70" r="2"/><circle cx="960" cy="70" r="2"/>
     <circle cx="1040" cy="70" r="2"/><circle cx="1120" cy="70" r="2"/>
   </g>
-  <!-- connecting curve -->
   <path d="M 120 70 Q 360 20 600 70 T 1080 70" fill="none" stroke="url(#line)" stroke-width="2.5" filter="url(#glow)"/>
-  <!-- active dots -->
   <g filter="url(#glow)">
     <circle cx="120" cy="70" r="6" fill="#00e8b8" opacity="0.95"/>
     <circle cx="360" cy="42" r="5" fill="#00e8b8" opacity="0.75"/>
@@ -38,5 +36,5 @@
     <circle cx="840" cy="98" r="5" fill="#00b894" opacity="0.8"/>
     <circle cx="1080" cy="70" r="6" fill="#00e8b8" opacity="0.95"/>
   </g>
-  <text x="600" y="118" text-anchor="middle" fill="#7a8a9a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" letter-spacing="0.28em">DOT ’ LINE ’ PRODUCT</text>
+  <text x="600" y="118" text-anchor="middle" fill="#7a8a9a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" letter-spacing="0.28em">DOT &#8594; LINE &#8594; PRODUCT</text>
 </svg>
