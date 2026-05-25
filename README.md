@@ -12,7 +12,7 @@ React · Next.js · React Native · Flutter 기반으로
 **사용자 경험과 성능 지표**를 올리고, 그 과정에서 **팀의 개발 품질과 협업**까지 같이 개선합니다.
 
 [![Velog](https://img.shields.io/badge/Blog-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@omnipo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seungchan-ahn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seungchan-ahn-067a6031b/)
 [![Email](https://img.shields.io/badge/Email-omnipoo@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omnipoo@naver.com)
 
 </div>
