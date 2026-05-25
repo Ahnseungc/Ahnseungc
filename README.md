@@ -25,11 +25,6 @@ React · Next.js · React Native · Flutter 기반으로
 - FinTech · Healthcare 도메인에서 **B2C WebView 앱**, **병동/요청 관리**, **간병 매칭** 프로덕트를 다뤘습니다.
 - 측정 가능한 개선을 좋아합니다 — Lighthouse, FLJS, 전환율, 로딩 시간, 운영 지표.
 
-```text
-📍 (주)골드앤컴퍼니 · Frontend Developer (2026.01 ~)
-🎓 한림대학교 컴퓨터공학 (2018.03 – 2025.08)
-```
-
 ---
 
 ## 🛠 Tech Stack
