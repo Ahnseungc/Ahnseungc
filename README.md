@@ -4,8 +4,6 @@
 
 ![tech-strip](https://capsule-render.vercel.app/api?type=soft&color=00e8b8,00b894&height=48&section=footer&text=React%20%7C%20Next.js%20%7C%20React%20Native%20%7C%20Flutter&fontSize=13&fontColor=070b12)
 
-![accent](https://raw.githubusercontent.com/Ahnseungc/Ahnseungc/main/assets/banner-accent.svg)
-
 <div align="center">
 
 React · Next.js · React Native · Flutter 기반으로  
