@@ -4,8 +4,6 @@
 
 <sub>React · Next.js · React Native · Flutter</sub>
 
-  <a href="https://github.com/Ahnseungc"><img src="https://github-readme-stats.vercel.app/api?username=Ahnseungc&show_icons=true&hide_border=true&theme=default" /></a>
-
 </div>
 
 ## 
