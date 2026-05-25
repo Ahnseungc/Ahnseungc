@@ -1,93 +1,70 @@
 <div align="center">
-<span><img src="https://github-readme-stats.vercel.app/api?username=Ahnseungc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" /></span>
+
+# 안승찬 · Frontend Engineer
+
+<sub>React · Next.js · React Native · Flutter</sub>
+
+  <a href="https://github.com/Ahnseungc"><img src="https://github-readme-stats.vercel.app/api?username=Ahnseungc&show_icons=true&hide_border=true&theme=default" /></a>
 
 </div>
 
 ## 
 
+#### Language
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
+</p>
 
-####  Language
-<span align="center"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/java-3776AB?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
-</span>
+#### FrontFramework
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=Electron&logoColor=white">
+</p>
 
-####  CssLibrary
-<span align="center"> 
-<img src="https://img.shields.io/badge/SASS-1572B6?style=flat&logo=SASS&logoColor=white">
-<img src="https://img.shields.io/badge/CSSModule-1572B6?style=flat&logo=CSSModule&logoColor=white">
-<img src="https://img.shields.io/badge/StyledComponents-1572B6?style=flat&logo=styledComponents&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwindcss-1572B6?style=flat&logo=Tailwindcss&logoColor=white">
-</span>
+#### Styling
+<p>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/CSS%20Modules-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white">
+</p>
 
-####  ClientStatusLibrary
-<span align="center"> 
-<img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white">
-</span>
-
-####  ServerStatusLibrary
-
-<span align="center"> 
-<img src="https://img.shields.io/badge/swr-000000?style=flat&logo=swr&logoColor=white">
-<img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white">
-</span>
-
-
- ####  FrontFramework
- <span align="center">
-<img src="https://img.shields.io/badge/NEXTJS-000000?style=flat&logo=Next.js&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat&logo=Vue.js&logoColor=white">
- </span>
-
- ####  ServerFramework
- <span align="center">
- <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white">
-</span>
-
- #### DB
-<span align="center">
-<img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white">
-<img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white">
-</span>
-
-  
- #### UI
-<span align="center">
-<img src="https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=white">
-</span>
+#### State Management
+<p>
+<img src="https://img.shields.io/badge/Zustand-433E38?style=flat&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white">
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white">
+<img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white">
+</p>
 
 #### Test
-<span align="center">
-<img src="https://img.shields.io/badge/jest-C21325?style=flat&logo=jest&logoColor=white">
- <img src="https://img.shields.io/badge/jasmine-C21325?style=flat&logo=jasmine&logoColor=white">
-</span>
-
-
-
-  
- 
- 
-
- 
-
- </br>
- </br>
- </br>
- 
-  <h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-  <a href="https://velog.io/@omnipo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href=""><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+<p>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white">
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white">
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white">
 </p>
-<br/>    
+
+#### DevOps & Tools
+<p>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+</p>
+
 <br/>
 
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://velog.io/@omnipo/posts"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>&nbsp;
+  <a href="mailto:omnipoo@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Ahnseungc"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
-
+<br/>
