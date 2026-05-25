@@ -115,10 +115,14 @@ React · Next.js · React Native · Flutter 기반으로
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahnseungc&show_icons=true&theme=dark&hide_border=true&bg_color=070b12&title_color=00e8b8&text_color=e8eef4&icon_color=00e8b8)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnseungc&layout=compact&theme=dark&hide_border=true&bg_color=070b12&title_color=00e8b8&text_color=e8eef4)
+<!-- github-readme-stats.vercel.app 은 DEPLOYMENT_PAUSED(503) 상태 → 대체 카드 사용 -->
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ahnseungc&theme=dark&hide_border=true&background=070B12&stroke=00e8b8&ring=00e8b8&fire=00e8b8&currStreakLabel=00e8b8&sideNums=e8eef4&sideLabels=e8eef4&dates=e8eef4&currStreakNum=00e8b8)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahnseungc&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahnseungc&theme=github_dark)
 
 ---
 
