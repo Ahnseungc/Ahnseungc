@@ -63,8 +63,7 @@ React · Next.js · React Native · Flutter 기반으로
 | 기간 | 회사 | 역할 |
 | --- | --- | --- |
 | **2026.01 ~** | (주)골드앤컴퍼니 | 금 거래·앱테크 B2C 프론트엔드 |
-| 2025.03 – 2026.01 | (주)케어마인더 | 병동 환자 요청·CareDesk · WebView 전환 |
-| 2024.09 – 2025.02 | (주)리케어랩 | 간병 매칭 B2C · 홈/렌더링 고도화 |
+| 2024.09 – 2026.01 | (주)케어마인더 | 병동 환자 요청·CareDesk · WebView 전환 |
 
 <details>
 <summary><b>주요 성과 (펼치기)</b></summary>
@@ -79,11 +78,6 @@ React · Next.js · React Native · Flutter 기반으로
 - RN → **WebView + Next.js** · 모노레포 · **CDS(Atomic Design)**
 - QR 병상 오더: 주문 시작 완료율 **20% → 30%**, 만료 세션 차단 **~99%**
 - 코드량 **~40% 감소**, UI 개발 속도 **+50%**, 저사양 태블릿 FPS 안정화
-
-### (주)리케어랩
-- CSR → **ISR/SSR** 혼합, RN–WebView 스택 라우터 · 스켈레톤 UX
-- 첫 화면 표시 **2,300ms → 1,600ms**, FCP/LCP **~30% 개선**
-- 푸시·딥링크 목표 화면 도달 **62% → 81%**
 
 </details>
 
