@@ -1,8 +1,3 @@
-<!-- 배너: 마크다운 이미지 + 절대 URL (프로필 README는 상대 경로/HTML img가 깨질 수 있음) -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:070b12,100:00e8b8&height=220&section=header&text=Seungchan%20Ahn&fontSize=52&fontColor=00e8b8&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20WebView%20%7C%20Performance&descSize=16&descAlignY=58&descAlign=50&descColor=e8eef4)
-
-![tech-strip](https://capsule-render.vercel.app/api?type=soft&color=00e8b8,00b894&height=48&section=footer&text=React%20%7C%20Next.js%20%7C%20React%20Native%20%7C%20Flutter&fontSize=13&fontColor=070b12)
 
 <div align="center">
 
