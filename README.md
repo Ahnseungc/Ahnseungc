@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Velog](https://img.shields.io/badge/Blog-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@omnipo)
+[![Blog](https://img.shields.io/badge/Blog-omnipo-20C997?style=for-the-badge&logo=cloudflare&logoColor=white)](https://omnipo-blog.omnipo58-e94.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seungchan-ahn-067a6031b/)
 [![Email](https://img.shields.io/badge/Email-omnipoo@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omnipoo@naver.com)
 
