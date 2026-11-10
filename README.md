@@ -17,13 +17,13 @@ Frontend Engineer @골드앤컴퍼니 - 앱 안의 웹 화면을 네이티브처
 #### Speaking & writing
 
 - SKKAI - "스타트업에서 스타팅 개발자로 살아남기"
-- [Blog](https://omnipo-blog.omnipo58-e94.workers.dev/?v=2) - WebView 성능, 하단 네비 prefetch, 렌더링 전략
+- [Blog](https://blog.omnipo58-e94.workers.dev/) - WebView 성능, 하단 네비 prefetch, 렌더링 전략
 
 #### Awards
 
 - **2024** 정주영창업경진대회 우수상·인기상 (아산나눔재단)
 - **2022** KBSC ESG 공모전 장려상 (국민은행)
 
-🔗 [Blog](https://omnipo-blog.omnipo58-e94.workers.dev/?v=2) · [LinkedIn](https://www.linkedin.com/in/seungchan-ahn-067a6031b/) · omnipoo@naver.com
+🔗 [Blog](https://blog.omnipo58-e94.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/seungchan-ahn-067a6031b/) · omnipoo@naver.com
 
 `TypeScript` `React` `Next.js` `React Native` `Expo` `Flutter WebView`
