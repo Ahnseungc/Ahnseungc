@@ -1,6 +1,6 @@
 ### Hi, I'm Seungchan Ahn 👋
 
-Frontend engineer building web apps that live inside native apps. I work on WebView bridges, stack navigation, and making in-app web screens feel native.
+engineer building web apps that live inside native apps. I work on WebView bridges, stack navigation, and making in-app web screens feel native.
 
 
 
